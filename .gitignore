@@ -1,3 +1,8 @@
+# мои файлы для спринта 2
+temp.py
+temp2.py
+'test_annotations PEP8.py'
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
